@@ -9,7 +9,7 @@ function App() {
      <Router>
        <ul>
         <li><NavLink to="/" className="menu">Home </NavLink></li>
-       <li><NavLink to="/userlist"className="menu" activeClassName="selected">User list</NavLink> </li>
+       <li><NavLink to="/userlist"className="menu" activeClassName="active">User list</NavLink> </li>
       <li> <NavLink to="/search"className="menu">Search User</NavLink></li>
       </ul> 
        <Switch>
