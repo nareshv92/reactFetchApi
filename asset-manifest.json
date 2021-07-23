@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactFetchApi/static/css/main.d5682c4a.chunk.css",
+    "main.js": "/reactFetchApi/static/js/main.35d0edaa.chunk.js",
+    "main.js.map": "/reactFetchApi/static/js/main.35d0edaa.chunk.js.map",
+    "runtime-main.js": "/reactFetchApi/static/js/runtime-main.e6674897.js",
+    "runtime-main.js.map": "/reactFetchApi/static/js/runtime-main.e6674897.js.map",
+    "static/js/2.8c1f8e94.chunk.js": "/reactFetchApi/static/js/2.8c1f8e94.chunk.js",
+    "static/js/2.8c1f8e94.chunk.js.map": "/reactFetchApi/static/js/2.8c1f8e94.chunk.js.map",
+    "static/js/3.9c1d376d.chunk.js": "/reactFetchApi/static/js/3.9c1d376d.chunk.js",
+    "static/js/3.9c1d376d.chunk.js.map": "/reactFetchApi/static/js/3.9c1d376d.chunk.js.map",
+    "index.html": "/reactFetchApi/index.html",
+    "static/css/main.d5682c4a.chunk.css.map": "/reactFetchApi/static/css/main.d5682c4a.chunk.css.map",
+    "static/js/2.8c1f8e94.chunk.js.LICENSE.txt": "/reactFetchApi/static/js/2.8c1f8e94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6674897.js",
+    "static/js/2.8c1f8e94.chunk.js",
+    "static/css/main.d5682c4a.chunk.css",
+    "static/js/main.35d0edaa.chunk.js"
+  ]
+}
